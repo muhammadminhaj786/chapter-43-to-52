@@ -1,0 +1,10 @@
+.disp{
+    margin: 20px auto;
+}
+input{
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    size: 50px;
+    font-size: 80px;
+}
