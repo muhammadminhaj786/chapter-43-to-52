@@ -4,10 +4,21 @@
 //     alert("Thanks for purchasing a phone from us")
 // }
 
-// Question No 3  *********
-// function del(){
-//     document.getElementById("myTable").deleteRow(0);
-    
+// Question No 3  
+// function del(x){
+//     var row1 = document.getElementById("row1")
+//     var row2 = document.getElementById("row2")
+//     var row3 = document.getElementById("row3")
+//     var row4 = document.getElementById("row4")
+//     if(x=='1'){
+//         row1.remove()
+//     }else if(x=='2'){
+//         row2.remove()
+//     }else if(x=='3'){
+//         row3.remove()
+//     }else if(x=='4'){
+//         row4.remove()
+//     }
 // }
 
 // Question No 4
